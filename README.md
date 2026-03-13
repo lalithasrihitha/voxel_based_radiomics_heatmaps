@@ -41,7 +41,7 @@ The script:
 ---
 
 # Visualization Panels
-
+Radiomic heatmaps visualize how radiomic features vary across the tissue region. Instead of a single numeric value, heatmaps reveal the **spatial distribution of intensity and texture patterns**, helping researchers understand tissue heterogeneity and interpret radiomics features within the anatomical context.
 Each generated image contains the following panels:
 
 ### Panel 1 — Anatomical Image (T2W) with ROI
